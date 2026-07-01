@@ -1,5 +1,5 @@
 # Missing Patient Information PDF Creator
-This R Script file is the automation of part of a monthly records transfer. It takes patient data and exports it PDFs. This used to be done manually. Note that the format of these PDFs had already been prescribed and this code is not attempting to change said format. *NO REAL PATIENT DATA IS INCLUDED IN THIS, any data is simulated.*
+This R Script file is the automation of part of a monthly records transfer. It takes patient data and exports it PDFs. This used to be done manually. This is a minor project and demonstrates how even simple repetitve tasks can be automated to save time. *NO REAL PATIENT DATA IS INCLUDED IN THIS, any data is simulated.*
 
 # Contents
 - Purpose
