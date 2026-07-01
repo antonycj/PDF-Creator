@@ -14,4 +14,4 @@ The purpose of this code is to automate the extraction of patient information fr
 This script was created in R Studio and utilized on authentic patient data received from SCOUT before being posted here. The data included in this repository is *NOT* said authentic data, but it is simulated data created using Python. The code for the simulation is included in this repository.
 
 # R Script
-[R Script for PDF Creator](blob/main/SCOUT%20Data%20Sharing%20Needs%20Soundex%20PDF%20Maker.R)
+[R Script for PDF Creator](https://github.com/antonycj/PDF-Creator/blob/main/SCOUT%20Data%20Sharing%20Needs%20Soundex%20PDF%20Maker.R)
